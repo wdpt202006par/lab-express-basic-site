@@ -1,0 +1,35 @@
+body{
+    background-color: bisque;
+    margin:0;
+    display: flex;
+}
+
+h1{
+    display: flex;
+    margin: 0;
+    height: 100vh;
+    /* width: 95vh; */
+    content:url("/Simone-de-Beauvoir.jpeg");
+}
+
+h2{
+    margin-top: 1em;
+    margin-bottom: 2em;
+    text-align: center;
+    font-size: 50px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    margin-bottom: 2em;
+}
+
+
+p{
+    color: goldenrod;
+    font-size: 20px;
+    text-align: center;
+}
