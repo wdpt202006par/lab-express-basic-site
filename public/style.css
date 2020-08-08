@@ -19,6 +19,15 @@ h2{
     font-size: 50px;
 }
 
+ul{
+    list-style: none;
+}
+
+li{
+    margin-bottom: 2em;
+}
+
+
 p{
     color: goldenrod;
     font-size: 20px;
