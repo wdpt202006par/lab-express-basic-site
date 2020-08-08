@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(190, 190, 204);
+  font-family: "Open Sans Condensed", sans-serif;
+  margin: 50px;
+  text-align: center;
+}
+
+img {
+  width: 40%;
+}
+
+h1 {
+  font-size: 60px;
+}
