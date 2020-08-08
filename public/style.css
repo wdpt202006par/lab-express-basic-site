@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+}
+
+.hero-header {
+    background-image: url("images/ocean-hero-header.jpg");
+    position: center;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Bebas Neue', cursive;
+}
+
+p {
+    font-size: 1.5em;
+    text-align: center;
+}
