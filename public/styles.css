@@ -1,4 +1,13 @@
-body {
-    background-color: red;
+#home {
+    /* background-color: red; */
     background-image: url('./images/background.jpg');
+    background-size: cover;
+}
+
+#About {
+    background-image: url('./images/about.png');
+}
+
+#works {
+    background-image: url('images/works.jpg');
 }
