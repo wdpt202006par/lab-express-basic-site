@@ -1,0 +1,18 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+	text-align: center;
+}
+
+img {
+	width: 500px;
+	height: 450px;
+	margin: 0.5em;
+}
+
+.images {
+	text-align: center;
+	display: block;
+}

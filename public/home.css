@@ -1,0 +1,10 @@
+body {
+		background-color: blueviolet;
+		position: absolute;
+  	top: 40%;
+  	left: 30%;
+}
+
+h1 {
+	font-size: 3em;
+}
