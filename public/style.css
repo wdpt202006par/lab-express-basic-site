@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  background-image: url('bruce-willis.jpg');
+  background-size: cover;
+  height: 100vh;
+  width: 80vw;
+}
+
+h1 {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 200px;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+}
+
+.links {
+  background-color: white;
+  width: auto;
+}
+
+.content {
+  margin: 0 auto;
+  text-align: center;
+}
