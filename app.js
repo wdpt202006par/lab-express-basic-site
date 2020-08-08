@@ -1,0 +1,19 @@
+const express = require('express');
+const app = express();
+
+app.get('/home', function (request, response, next) {
+    response.sendFile(__dirname+"/views/home.html");
+
+})
+
+app.get('/about', function (request, response, next) {
+    response.sendFile(__dirname+"/views/about.html");
+
+})
+
+app.get('/work', function (request, response, next) {
+    response.sendFile(__dirname+"/views/work.html");
+
+})
+
+app.listen(3000);
